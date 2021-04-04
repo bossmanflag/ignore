@@ -15,6 +15,7 @@
     endmodule
 
 
+### Test bench
     module adder_test;
     
     	// Inputs
